@@ -104,5 +104,3 @@ updates["v0.1"] = {
 }
 
 updates.latest = updates["v0.3b"]
-
-return updates
