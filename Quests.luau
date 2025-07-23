@@ -117,5 +117,3 @@ quests.FishingIII = {
 		}
 	}
 }
-
-return quests
